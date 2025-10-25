@@ -1,4 +1,4 @@
-# bornagaincoder7.github.io
+# BornAgainCoder7.github.io
 
 A clean, personal homepage for Christopher Bueker — developer, SEO strategist, and founder of SunPath SEO.
 
