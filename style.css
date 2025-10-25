@@ -1,0 +1,80 @@
+/* Base Styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0 20px;
+  background-color: #fff;
+  color: #222;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 40px 20px 10px;
+}
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.2em;
+}
+header p {
+  font-size: 1.2em;
+  color: #444;
+}
+
+/* Nav Bar */
+nav {
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #0077cc;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Sections */
+section {
+  max-width: 800px;
+  margin: 0 auto 40px;
+  padding: 0 10px;
+}
+section h2 {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+/* Lists */
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+li {
+  margin-bottom: 8px;
+}
+a {
+  color: #0077cc;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: #555;
+  padding: 30px 20px 20px;
+  border-top: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+footer a
